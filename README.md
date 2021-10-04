@@ -1,4 +1,9 @@
-# structure_of_nodejs_backend
+Document of sendgrid mail
 
 
-structure_of_nodejs_backend
+Commands
+
+    1. npm install
+    2. node main.js
+    
+   
