@@ -9,8 +9,8 @@ let AGENT_ID='' + process.env.AGENT_ID + ''
 let AGENT_JOBSTATUS='' + process.env.AGENT_JOBSTATUS + ''
 
 const msg = {
-  to: "montfortthomasp@gmail.com", // Change to your recipient
-  from: "montfortthomasp@gmail.com", // Change to your verified sender
+  to: "jinojoe@gmail.com", // Change to your recipient
+  from: "jinojoe@gmail.com", // Change to your verified sender
   templateId: "d-d5a30658ae6e4ba7b60527d45a9a72a0",
   dynamicTemplateData: {
     subject: "PIPELINES RESULTS",
